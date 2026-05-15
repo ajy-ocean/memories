@@ -28,7 +28,7 @@ class GalleryDashboard extends ConsumerWidget {
           backgroundColor: Colors.white,
           elevation: 0,
           title: const Text(
-            'MEMORIES ENGINE',
+            'MEMORIES',
             style: TextStyle(
               color: Colors.black87,
               fontWeight: FontWeight.w900,
